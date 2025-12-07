@@ -1,0 +1,12 @@
+# Dre.IO.FIXiT ignore rules
+
+# Logs and temporary files
+logs/
+*.log
+
+# VS Code settings
+.vscode/
+
+# OS files
+Thumbs.db
+ehthumbs.db
